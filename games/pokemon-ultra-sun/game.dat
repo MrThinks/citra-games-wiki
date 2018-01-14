@@ -1,0 +1,10 @@
+title = "Pokemon ultra sun"
+description = "this is a game where you fight with your partner pokemon to be the very best"
+needs_system_files = true
+needs_shared_font = false
+game_type = "dsi"
+
+[[releases]]
+title = "00040000001B5000"
+region = "usa"
+release_date = "2017-09-17"
